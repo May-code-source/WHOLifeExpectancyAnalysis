@@ -65,7 +65,10 @@ Questions
 - K-means Clustering for categorizing countries based on life expectancy.
 
 ### Tableau Dashboard: 
-Creating visualizations to explore life expectancy and related factors across continents.      
+Creating visualizations to explore life expectancy and related factors across continents.  
+![LifeExpectancyDashboard](https://github.com/May-code-source/WHOLifeExpectancyAnalysis/assets/115402970/6d968614-377c-447d-b4ab-368a0b5a6a92)
+
+
 
 ## Insights
 
