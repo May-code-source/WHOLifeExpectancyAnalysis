@@ -10,7 +10,6 @@
     - [Data Preparation](#data-preparation)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
     - [Predictive Modeling](#predictive-modeling)
-    - [View Jupyter Notebook](#view-jupyter-notebook)
 - [Tableau Dashboard](#tableau-dashboard)
 - [Insights](#insights)
 - [Limitations](#limitations)
@@ -65,7 +64,7 @@ Questions
 - Principal Component Analysis (PCA) for dimensionality reduction.
 - K-means Clustering for categorizing countries based on life expectancy.
 
-[View Jupyter Notebook](https://nbviewer.org/github/May-code-source/WHOLifeExpectancyAnalysis/blob/main/Data%20Analysis%20-Life%20Expectancy.ipynb)
+[View on Jupyter Notebook](https://nbviewer.org/github/May-code-source/WHOLifeExpectancyAnalysis/blob/main/Data%20Analysis%20-Life%20Expectancy.ipynb)
 
 ### Tableau Dashboard: 
 Creating visualizations to explore life expectancy and related factors across continents.  
