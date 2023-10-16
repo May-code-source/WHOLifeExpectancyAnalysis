@@ -67,7 +67,8 @@ Questions
 [View on Jupyter Notebook](https://nbviewer.org/github/May-code-source/WHOLifeExpectancyAnalysis/blob/main/Data%20Analysis%20-Life%20Expectancy.ipynb)
 
 ### Tableau Dashboard: 
-Creating visualizations to explore life expectancy and related factors across continents.  
+Creating visualizations to explore life expectancy and related factors across continents. 
+[View Dashboard Here](https://public.tableau.com/views/ExpectancyVisualization/LifeExpectancyDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![LifeExpectancyDashboard](https://github.com/May-code-source/WHOLifeExpectancyAnalysis/assets/115402970/6d968614-377c-447d-b4ab-368a0b5a6a92)
 
 
