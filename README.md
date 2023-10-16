@@ -33,7 +33,7 @@ The dataset Life Expectancy Data.xlsx was obtained from Kaggle and it includes h
 ## Tools
 
 - Excel - Initial Exploration
-- Python - Data Cleaning, Analysis and Modelling 
+- Python | Pandas - Data Cleaning, Analysis and Modelling 
 - Seaborn - Visualization
 - Matplotlib - Visualization
 - Plotly - Visualization
