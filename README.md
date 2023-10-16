@@ -4,15 +4,15 @@
 
 - [Project Overview](#project-overview)
 - [Highlight](#highlight)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Techniques](techniques)
-    - [Data Preparation](data-preparation)
-    - [Exploratory Data Analysis](exploratory-data-analysis)
-    - [Predictive Modeling](predictive-modeling)
-    - [Tableau Dashboard](tableau-dashboard)
-- [Insights](insights)
-- [Limitations](limitations)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Techniques](#techniques)
+    - [Data Preparation](#data-preparation)
+    - [Exploratory Data Analysis](#exploratory-data-analysis)
+    - [Predictive Modeling](#predictive-modeling)
+    - [Tableau Dashboard](#tableau-dashboard)
+- [Insights](#insights)
+- [Limitations](#limitations)
 
 
 ## Project Overview
