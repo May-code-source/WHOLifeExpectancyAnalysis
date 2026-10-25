@@ -75,10 +75,9 @@ Creating visualizations to explore life expectancy and related factors across co
 
 ## Insights
 
-- Analysis revealed that factors like schooling, income composition, and adult mortality significantly influence life expectancy. 
+- Analysis revealed that factors like schooling, income composition, and adult mortality are significantly associated with life expectancy. 
 - Analysis also revealed global health disparities between developed and developing countries with developed countries having higher life expectancy but developing countries showing a higher growth rate. 
  - K-means clustering identified distinct groupings, including a cluster for India due to its large population and high under-five deaths and countries with high HIV/AIDS prevalence and low life expectancy.
-- Predictive modeling using principal component analysis gave the highest accuracy of 80% in predicting life expectancy
 - The insights can inform evidence-based policies and interventions to address health inequalities.
 
 ## Limitations 
